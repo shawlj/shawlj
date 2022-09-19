@@ -17,9 +17,9 @@
 ### 💌 交流互鉴
 [![](https://img.shields.io/static/v1?labelColor=000000&label=&message=Shawlj&color=FFFF00&style=flat&logo=github&logoColor=FFFFFF)](https://github.com/shawlj)
 [![](https://img.shields.io/static/v1?label=&message=微信&color=07C160&style=flat&logo=wechat&logoColor=FFFFFF)](https://space.bilibili.com/320001004)
-[![](https://img.shields.io/static/v1?label=&message=微博&color=e6162d&style=flat&logo=sinaweibo&logoWidth=100%&logoColor=FFFFFF)](https://space.bilibili.com/320001004)
-[![](https://img.shields.io/static/v1?label=&message=知乎&color=0066ff&style=flat&logo=zhihu&logoColor=FFFFFF)](https://space.bilibili.com/320001004)
-[![](https://img.shields.io/static/v1?label=&message=邮箱&color=blueviolet&style=flat&logo=gmail&logoColor=FFFFFF)](https://space.bilibili.com/320001004)
+[![](https://img.shields.io/static/v1?label=&message=微博&color=e6162d&style=flat&logo=sinaweibo&logoWidth=100%&logoColor=FFFFFF)](https://weibo.com/shawlj)
+[![](https://img.shields.io/static/v1?label=&message=知乎&color=0066ff&style=flat&logo=zhihu&logoColor=FFFFFF)](https://www.zhihu.com/people/shawlj)
+[![](https://img.shields.io/static/v1?label=&message=邮箱&color=blueviolet&style=flat&logo=gmail&logoColor=FFFFFF)](shawlj@yeah.net)
 [![](https://img.shields.io/static/v1?label=&message=B站&color=f45a8d&style=flat&logo=bilibili&logoColor=FFFFFF)](https://space.bilibili.com/320001004)
 [![](https://img.shields.io/static/v1?labelColor=orange&label=反馈&message=5&color=orange&style=social&logo=github)](https://space.bilibili.com/320001004)
 
