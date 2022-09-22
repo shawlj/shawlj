@@ -7,14 +7,13 @@
 - 如有对您一些许帮助还望不吝~~打赏~~点赞，多多益善^_^~
 
 ### 📈 数据语言
-[![Shawlj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawlj&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true)](https://github.com/shawlj) | [![Shawlj's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shawlj&layout=compact&theme=buefy&hide_border=true&card_width=400)](https://github.com/shawlj)
------------- | -------------
+| [![Shawlj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawlj&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true)](https://github.com/shawlj) | [![Shawlj's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shawlj&layout=compact&langs_count=8&theme=buefy&hide_border=true&card_width=400)](https://github.com/shawlj) |
+| ------------- | ------------- |
 
 ### 🎲 有点意思
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=shawlj&repo=JZ_SubtitleHelper&theme=buefy)](https://github.com/shawlj/JZ_SubtitleHelper)
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=shawlj&repo=GreasyScript&theme=buefy)](https://github.com/shawlj/GreasyScript)
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=shawlj&repo=DOpusScript&theme=buefy)](https://github.com/shawlj/DOpusScript)
-
+| [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=shawlj&repo=JZ_SubtitleHelper&theme=buefy&hide_border=true&card_width=50%)](https://github.com/shawlj/JZ_SubtitleHelper) | [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=shawlj&repo=GreasyScript&theme=buefy&hide_border=true&card_width=50%)](https://github.com/shawlj/GreasyScript) |
+| ------------- | ------------- |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=shawlj&repo=DOpusScript&theme=buefy&hide_border=true&card_width=50%)](https://github.com/shawlj/DOpusScript) | [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=shawlj&repo=JasonZhang&theme=buefy&hide_border=true&card_width=50%)](https://github.com/shawlj/JasonZhang) |
 
 ### 💌 交流互鉴
 [![](https://img.shields.io/static/v1?labelColor=000000&label=&message=Shawlj&color=FFFF00&style=flat&logo=github&logoColor=FFFFFF)](https://github.com/shawlj)
