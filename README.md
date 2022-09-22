@@ -1,6 +1,6 @@
 
 ### 👋哈喽 大家好 欢迎光临寒舍 您的到来令小舍蓬荜生辉~
-- 小窝博主业余抽空捣鼓一些脚本工具（`部分未公开`）~
+- 小窝博主业余抽空捣鼓一些脚本工具（`部分未显示`）~
 - 如浏览器油猴脚本，应用插件等，在专业大神面前班门弄斧啦~
 - 功能上根据博主需求定做开发，具有强烈的完美主义（`该死的强迫症`）~
 - 若有趣的~~馊主意~~好建议博主考虑~~踩雷~~采纳，同时欢迎友友们探讨交流~
@@ -25,4 +25,4 @@
 [![](https://img.shields.io/static/v1?labelColor=orange&label=反馈&message=5&color=orange&style=social&logo=github)](https://space.bilibili.com/320001004)
 
 ### 🍜 赞助脱单
-#### <span style="color:red">YOUDIDADIDAME,MEHUALAHUALAYOU,ONETWOTHREEGO,QQQ</span>
+#### YOUDIDADIDAME,MEHUALAHUALAYOU,ONETWOTHREEGO,QQQ
