@@ -24,4 +24,4 @@
 [![](https://img.shields.io/static/v1?labelColor=orange&label=反馈&message=5&color=orange&style=social&logo=github)](https://space.bilibili.com/320001004)
 
 ### 🍜 赞助脱单
-#### <span style="color:red">YOUDIDADIDAME,MEHUALAHUALAYOU,ONE TWO THREE GO, QQQ</span>
+#### <span style="color:red">YOUDIDADIDAME,MEHUALAHUALAYOU,ONETWOTHREEGO,QQQ</span>
