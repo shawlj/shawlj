@@ -12,7 +12,7 @@
 
 ### 🎲 有点意思
 [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=shawlj&repo=JZ_SubtitleHelper&theme=buefy)](https://github.com/shawlj/JZ_SubtitleHelper)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=shawlj&repo=GreasyScript&theme=buefy)](https://github.com/shawlj/GreasyScript)
 [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=shawlj&repo=DOpusScript&theme=buefy)](https://github.com/shawlj/DOpusScript)
 
 ### 💌 交流互鉴
