@@ -4,7 +4,7 @@
 - 如浏览器油猴脚本，应用插件等，在专业大神面前班门弄斧啦~
 - 功能上根据博主需求定做开发，具有强烈的完美主义（`该死的强迫症`）~
 - 若有趣的~~馊主意~~好建议博主考虑~~踩雷~~采纳，同时欢迎友友们探讨交流~
-- 如有对您一些许帮助还望不吝~~打赏~~点赞，多多益善^_^~
+- 如有对您些许帮助，记得点赞关注收藏哟，么么哒^_^~
 
 ### 📈 数据语言
 | [![Shawlj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawlj&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true)](https://github.com/shawlj) | [![Shawlj's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shawlj&layout=compact&langs_count=8&theme=buefy&hide_border=true&card_width=400)](https://github.com/shawlj) |
