@@ -24,8 +24,6 @@
 [![](https://img.shields.io/static/v1?labelColor=orange&label=反馈&message=5&color=orange&style=social&logo=github)](https://space.bilibili.com/320001004)
 
 ### 🍜 赞助脱单
-$\color{#ea4335}{红色}$
-
 <details>
   <summary>
     <b><font color="red">YOUDIDADIDAME,MEHUALAHUALAYOU,ONETWOTHREEGO,QQQ</font></b>
