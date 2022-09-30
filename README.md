@@ -28,7 +28,14 @@
   <summary>
     <b><font color="red">YOUDIDADIDAME,MEHUALAHUALAYOU,ONETWOTHREEGO,QQQ</font></b>
   </summary>
-<pre><code>
-来一瓶支付宝/或者一封微信
-</code></pre>
+  <table>
+    <tr>
+      <td>一瓶支付宝</td>
+      <td>一封微信</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/shawlj/shawlj/blob/40a880e47750afccc1ed7c1df51206411bfbf2c5/sponsor/alipay.jpg"></td>
+      <td><img src="https://github.com/shawlj/shawlj/blob/40a880e47750afccc1ed7c1df51206411bfbf2c5/sponsor/wechat.jpg"></td>
+    </tr>  
+  </table>
 </details>
