@@ -16,12 +16,12 @@
 
 ### 💌 交流互鉴
 [![](https://img.shields.io/static/v1?labelColor=000000&label=&message=Shawlj&color=FFFF00&style=flat&logo=github&logoColor=FFFFFF)](https://github.com/shawlj)
-[![](https://img.shields.io/static/v1?label=&message=微信&color=07C160&style=flat&logo=wechat&logoColor=FFFFFF)](https://space.bilibili.com/320001004)
-[![](https://img.shields.io/static/v1?label=&message=微博&color=e6162d&style=flat&logo=sinaweibo&logoWidth=100%&logoColor=FFFFFF)](https://weibo.com/shawlj)
-[![](https://img.shields.io/static/v1?label=&message=知乎&color=0066ff&style=flat&logo=zhihu&logoColor=FFFFFF)](https://www.zhihu.com/people/shawlj)
-[![](https://img.shields.io/static/v1?label=&message=邮箱&color=blueviolet&style=flat&logo=gmail&logoColor=FFFFFF)](shawlj@yeah.net)
-[![](https://img.shields.io/static/v1?label=&message=B站&color=f45a8d&style=flat&logo=bilibili&logoColor=FFFFFF)](https://space.bilibili.com/320001004)
-[![](https://img.shields.io/static/v1?labelColor=orange&label=反馈&message=5&color=orange&style=social&logo=github)](https://space.bilibili.com/320001004)
+[![](https://img.shields.io/static/v1?label=&message=%E5%BE%AE%E5%8D%9A&color=e6162d&style=flat&logo=sinaweibo&logoWidth=100%&logoColor=FFFFFF)](https://weibo.com/shawlj)
+[![](https://img.shields.io/static/v1?label=&message=%E5%BE%AE%E4%BF%A1&color=07C160&style=flat&logo=wechat&logoColor=FFFFFF)](https://space.bilibili.com/320001004)
+[![](https://img.shields.io/static/v1?label=&message=%E7%9F%A5%E4%B9%8E&color=0066ff&style=flat&logo=zhihu&logoColor=FFFFFF)](https://www.zhihu.com/people/shawlj)
+[![](https://img.shields.io/static/v1?label=&message=%E9%82%AE%E7%AE%B1&color=blueviolet&style=flat&logo=gmail&logoColor=FFFFFF)](shawlj@yeah.net)
+[![](https://img.shields.io/static/v1?label=&message=B%E7%AB%99&color=f45a8d&style=flat&logo=bilibili&logoColor=FFFFFF)](https://space.bilibili.com/320001004)
+[![](https://img.shields.io/static/v1?labelColor=orange&label=%E5%8F%8D%E9%A6%88&message=5&color=orange&style=social&logo=github)](https://github.com/shawlj/JZ_SubtitleHelper/issues)
 
 ### 🍜 赞助脱单
 <details>
