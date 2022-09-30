@@ -19,7 +19,7 @@
 [![](https://img.shields.io/static/v1?label=&message=%E5%BE%AE%E5%8D%9A&color=e6162d&style=flat&logo=sinaweibo&logoWidth=100%&logoColor=FFFFFF)](https://weibo.com/shawlj)
 [![](https://img.shields.io/static/v1?label=&message=%E5%BE%AE%E4%BF%A1&color=07C160&style=flat&logo=wechat&logoColor=FFFFFF)](https://space.bilibili.com/320001004)
 [![](https://img.shields.io/static/v1?label=&message=%E7%9F%A5%E4%B9%8E&color=0066ff&style=flat&logo=zhihu&logoColor=FFFFFF)](https://www.zhihu.com/people/shawlj)
-[![](https://img.shields.io/static/v1?label=&message=%E9%82%AE%E7%AE%B1&color=blueviolet&style=flat&logo=gmail&logoColor=FFFFFF)](shawlj@yeah.net)
+<a href="mailto: shawlj@yeah.net"><img src="https://img.shields.io/static/v1?label=&message=%E9%82%AE%E7%AE%B1&color=blueviolet&style=flat&logo=gmail&logoColor=FFFFFF"></a>
 [![](https://img.shields.io/static/v1?label=&message=B%E7%AB%99&color=f45a8d&style=flat&logo=bilibili&logoColor=FFFFFF)](https://space.bilibili.com/320001004)
 [![](https://img.shields.io/static/v1?labelColor=orange&label=%E5%8F%8D%E9%A6%88&message=5&color=orange&style=social&logo=github)](https://github.com/shawlj/JZ_SubtitleHelper/issues)
 
