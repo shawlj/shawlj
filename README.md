@@ -28,10 +28,8 @@
   <summary>
     <b><font color="red">YOUDIDADIDAME,ONETWOTHREEGO,QQQ</font></b>
   </summary>
-  <table style="border: none;">
-    <tr>
-      <td style="border: none;"><img src="https://github.com/shawlj/shawlj/blob/40a880e47750afccc1ed7c1df51206411bfbf2c5/sponsor/alipay.jpg"></td>
-      <td style="border: none;"><img src="https://github.com/shawlj/shawlj/blob/40a880e47750afccc1ed7c1df51206411bfbf2c5/sponsor/wechat.jpg"></td>
-    </tr>  
-  </table>
+  <div>
+    <img src="https://github.com/shawlj/shawlj/blob/40a880e47750afccc1ed7c1df51206411bfbf2c5/sponsor/alipay.jpg">
+    <img src="https://github.com/shawlj/shawlj/blob/40a880e47750afccc1ed7c1df51206411bfbf2c5/sponsor/wechat.jpg">
+  </div>
 </details>
