@@ -26,13 +26,9 @@
 ### 🍜 赞助脱单
 <details>
   <summary>
-    <b><font color="red">YOUDIDADIDAME,MEHUALAHUALAYOU,ONETWOTHREEGO,QQQ</font></b>
+    <b><font color="red">YOUDIDADIDAME,ONETWOTHREEGO,QQQ</font></b>
   </summary>
-  <table>
-    <tr>
-      <td>一瓶支付宝</td>
-      <td>一封微信</td>
-    </tr>
+  <table style="border:0px">
     <tr>
       <td><img src="https://github.com/shawlj/shawlj/blob/40a880e47750afccc1ed7c1df51206411bfbf2c5/sponsor/alipay.jpg"></td>
       <td><img src="https://github.com/shawlj/shawlj/blob/40a880e47750afccc1ed7c1df51206411bfbf2c5/sponsor/wechat.jpg"></td>
