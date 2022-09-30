@@ -29,7 +29,7 @@
     <b><font color="red">YOUDIDADIDAME,ONETWOTHREEGO,QQQ</font></b>
   </summary>
   <div style="float:right">
-    <img src="https://github.com/shawlj/shawlj/blob/40a880e47750afccc1ed7c1df51206411bfbf2c5/sponsor/alipay.jpg">
-    <img src="https://github.com/shawlj/shawlj/blob/40a880e47750afccc1ed7c1df51206411bfbf2c5/sponsor/wechat.jpg">
+    <img src="https://github.com/shawlj/shawlj/blob/40a880e47750afccc1ed7c1df51206411bfbf2c5/sponsor/alipay.jpg" width="20%">
+    <img src="https://github.com/shawlj/shawlj/blob/40a880e47750afccc1ed7c1df51206411bfbf2c5/sponsor/wechat.jpg" width="20%">
   </div>
 </details>
