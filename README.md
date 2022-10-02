@@ -26,10 +26,9 @@
 ### 🍜 赞助脱单
 <details>
   <summary>
-    <b><font color="red">YOUDIDADIDAME,ONETWOTHREEGO,QQQ</font></b>
+    <b><font color="red">🍬🍭🍡🥛🍧🍗🍫🥚🍠🍢🧁🍶🍾🥛🍹</font></b>
   </summary>
   <div style="float:right">
-    <img src="https://github.com/shawlj/shawlj/blob/40a880e47750afccc1ed7c1df51206411bfbf2c5/sponsor/alipay.jpg" width="20%">
-    <img src="https://github.com/shawlj/shawlj/blob/40a880e47750afccc1ed7c1df51206411bfbf2c5/sponsor/wechat.jpg" width="20%">
+    <img src="https://github.com/shawlj/shawlj/blob/fe2a70b487830ba9005f0eab16f8555260ca6e46/sponsor/sponsor.jpg" width="50%">
   </div>
 </details>
