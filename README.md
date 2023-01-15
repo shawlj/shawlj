@@ -4,7 +4,7 @@
 - Such as browser script, application plug-in, etc.It is not worth mentioning in front of professionals.
 - Customized development according to different scenarios, with strong perfectionism.
 - If you have any interesting suggestions(Opinions), I will consider adopting them.
-- If it's helpful to you, remember to like it and follow the collection, mua~ ^_^
+- If it's helpful to you, hope to get your likes and attention, mua~ ^_^
 
 ### 📈 Stats
 | [![Shawlj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawlj&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true)](https://github.com/shawlj) | [![Shawlj's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shawlj&layout=compact&langs_count=8&theme=buefy&hide_border=true&card_width=400)](https://github.com/shawlj) |
