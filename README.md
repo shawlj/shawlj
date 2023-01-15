@@ -1,7 +1,7 @@
 
 ### 👋Hello~ Welcome to my humble abode. Your arrival makes my abode very beautiful~
 - The site is a library of tools developed by bloggers in their spare time.
-- Such as browser oil monkey script, application plug-in, etc.It is not worth mentioning in front of professionals.
+- Such as browser script, application plug-in, etc.It is not worth mentioning in front of professionals.
 - Customized development according to different scenarios, with strong perfectionism.
 - If you have any interesting suggestions(Opinions), I will consider adopting them.
 - If it's helpful to you, remember to like it and follow the collection, mua~ ^_^
