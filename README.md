@@ -23,7 +23,7 @@
 [![](https://img.shields.io/static/v1?label=&message=B%E7%AB%99&color=f45a8d&style=flat&logo=bilibili&logoColor=FFFFFF)](https://space.bilibili.com/320001004)
 [![](https://img.shields.io/static/v1?labelColor=orange&label=%E5%8F%8D%E9%A6%88&message=5&color=orange&style=social&logo=github)](https://github.com/shawlj/JZ_SubtitleHelper/issues)
 
-### 🌹 Sponsor
+### 🌹 Donate
 <details>
   <summary>
     <b><font color="red">🍬🍭🍡🥛🍧🍗🍫🥚🍠🍢🧁🍶🍾🥛🍹🍕🍷☕🥫🍟</font></b>
